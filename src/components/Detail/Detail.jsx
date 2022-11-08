@@ -13,7 +13,7 @@ function Detail() {
             <div className={style.card}>
                 <h1>{char.name}</h1>
                 <img src={char.image} alt="asd" />
-                <h2>Patronus: {char.patronus}</h2>
+                <h2>Patronussss: {char.patronus}</h2>
                 <h2>House: {char.house}</h2>
                 <h3>Actor/actress: {char.actor}</h3>
             </div>
